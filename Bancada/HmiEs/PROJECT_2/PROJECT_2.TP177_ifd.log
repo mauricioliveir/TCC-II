@@ -1,0 +1,10 @@
+﻿ES2RT linker log file created on domingo, 29 de setembro de 2024 19:09:10
+
+Linking...
+User Info - Resource Id [ NrOfTags ], caused in [ LinkerVar ]
+User Info - Resource Id [ NumberPowerTags ], caused in [ LinkerLicense ]
+User Info - Resource Id [ RequiredEitherOrLicense ], caused in [ LinkerLicense ]
+0 errors, 0 warnings - succeeded.
+
+Writing "C:\Users\mauri\OneDrive\Documentos\Geral\Trabalho\Coisas da Conti\Automation\Drys7\Bancada\HmiEs\PROJECT_2\PROJECT_2.TP177"...
+Done.

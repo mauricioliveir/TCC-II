@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<?xml-stylesheet type='text/xsl' href='Styles/ImExportLog.xsl'?>
+<root>
+	<prefix>
+		<prefixentry name='Copyright (C) SIEMENS AG 2017'></prefixentry>
+		<prefixentry name=''></prefixentry>
+		<prefixentry name='Product:'>SIMATIC WinCC flexible</prefixentry>
+		<prefixentry name='Version:'>2008 SP5</prefixentry>
+		<prefixentry name='User:'>Oliveiram6</prefixentry>
+		<prefixentry name='Work station:'>POLMF01N</prefixentry>
+		<prefixentry name='Content:'>Export process log</prefixentry>
+		<prefixentry name=''></prefixentry>
+	</prefix>
+	<header>
+		<headerentry name='Type'></headerentry>
+		<headerentry name='Date/Time'></headerentry>
+		<headerentry name='Line'></headerentry>
+		<headerentry name='Message'></headerentry>
+	</header>
+	<Entry type='Info'>
+		<DateTime>01/23/2023 07:19:01</DateTime>
+		<Line>-</Line>
+		<Message>The export process has been started.</Message>
+	</Entry>
+	<Entry type='Info'>
+		<DateTime>01/23/2023 07:19:01</DateTime>
+		<Line>-</Line>
+		<Message>0 elements were exported.</Message>
+	</Entry>
+</root>
