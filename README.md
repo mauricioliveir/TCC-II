@@ -123,7 +123,7 @@ Este projeto é licenciado sob a Licença MIT - consulte o arquivo [LICENSE.md](
 
 O código-fonte deste projeto está disponível no GitHub:
 
-[🔗 Link para o Repositório](link_para_o_repositorio)
+[🔗 Link para o Repositório](https://github.com/mauricioliveir/TCC-II/tree/main)
 
 ---
 
